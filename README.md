@@ -5,8 +5,7 @@
 - 🔭 &ensp;I’m currently working on  <a href="https://offto.com.kw/">OFFTO</a>
 - 🌱 &ensp;I’m currently learning flutter
 - 👯 &ensp;I’m looking to collaborate on potential podcast
-- 🤔 &ensp;I’m looking for help with  websites design, Flutter Apps
-- 💬 &ensp;Ask me about Js Angular, React, Vue and Flutter
+- 💬 &ensp;Ask me about Js Angular, React, Vue and node.js
 - 📫 &ensp;How to reach me: mohamadhendy14@gmail.com
 - 😄 &ensp;Pronouns: he/him
 - ⚡ &ensp;Fun fact: I  ❤️  Sloth animal
