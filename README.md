@@ -3,7 +3,7 @@
 
 
 - 🔭 &ensp;I’m currently working  as Freelancer
-- 🌱 &ensp;I’m currently learning flutter
+- 🌱 &ensp;I’m currently learning Node JS
 - 👯 &ensp;I’m looking to collaborate on potential podcast
 - 💬 &ensp;Ask me about Js Angular, React, Vue and node.js
 - 📫 &ensp;How to reach me: mohamadhendy14@gmail.com
